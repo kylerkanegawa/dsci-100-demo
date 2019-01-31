@@ -1,2 +1,2 @@
 # dsci-100-demo
-Author: Kyler Kanegawa
+Author: Kyler Kanegawa and Daniel Alimohd
